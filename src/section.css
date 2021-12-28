@@ -1,0 +1,108 @@
+.container {
+    margin-top: 20px;
+    margin-right: 238px;
+    margin-left: 235px;
+   
+    
+}
+.row1 {
+    display: flex;
+}
+h3 {
+    font-weight: 100;
+    font-size: 20px;
+    padding: 5px;
+
+}
+select {
+    margin-right: 2px;
+    margin-left: 150px;
+    font-weight: 100;
+    font-size: 12px;
+    padding: 5px;
+}
+#container_input {
+    width: 350px;
+}
+h5 {
+    margin-left: 40px;
+    padding: 5px;
+}
+.container1 {
+    display: flex;
+    
+}
+.column1 {
+    display: flex;
+    margin-top: 60px;
+    flex-direction: column;
+    width: 32%;
+    
+    
+}
+h4 {
+    padding: 10px;
+    margin-top: 20px;
+}
+p {
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.input1{
+    padding-bottom: 4px;
+    padding-left: 10px;
+}
+label {
+    padding-left: 10px;
+}
+#search {
+    padding: 5px;
+}
+.column2 {
+    margin-left: 16px;
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+    
+
+}
+.image {
+    padding-top: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 260px;
+    box-shadow: 0 2px 5px 2px blue;
+    margin: 10px;
+    
+}
+img {
+
+    height: 140px;
+    width: 180px;
+    
+}
+ul {
+    list-style: none;
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+    font-size: 12px;
+    font-weight: 50;
+}
+h3 {
+    font-size: 400;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+

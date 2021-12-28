@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.header {
+      
+    background: black;
+    color: white;
+    display: flex;
+    font-size: 12px;
+    text-align: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+#header_left {
+    display: flex;
+    list-style: none;
+}
+#header_right {
+    display: flex;
+    
+    list-style: none;
+}
+#header_left li {
+    padding: 8px;
+}
+#header_right li {
+    padding: 8px;
+}
