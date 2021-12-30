@@ -55,6 +55,7 @@ p {
 }
 label {
     padding-left: 10px;
+    cursor: pointer;
 }
 #search {
     padding: 5px;
@@ -82,6 +83,7 @@ img {
 
     height: 140px;
     width: 180px;
+    padding: 5px;
     
 }
 ul {
@@ -93,9 +95,11 @@ ul {
     font-weight: 50;
 }
 h3 {
-    font-size: 400;
+    font-size: 15px;
     font-weight: bold;
+    width: 150px;
 }
+
 
 
 

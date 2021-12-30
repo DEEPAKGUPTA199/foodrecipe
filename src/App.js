@@ -4,15 +4,15 @@ import Section from './Section';
 
 
 function App() {
-  const[search,setSearch]=useState('deepak');
+  // const[search,setSearch]=useState('deepak');
 
-  function inputChange(e){
-        setSearch(e.target.value);
-  }
+  // function inputChange(e){
+  //       setSearch(e.target.value);
+  
   return (
     <div className="App">
       <Header />
-      <Section search={search} />
+      <Section  />
     </div>
   );
 }
